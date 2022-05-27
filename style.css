@@ -133,7 +133,7 @@ img:hover {
 
     font-size: 1.2em;
 
-    line-height: 25px;
+    /* line-height: 25px; */
     margin-bottom: 5vh;
 }
 
@@ -239,7 +239,7 @@ span {
 .other-services {
     text-align: center;
     letter-spacing: 1px;
-    line-height: 22px;
+    /* line-height: 22px; */
 }
 
 .last-pitch {
@@ -414,7 +414,7 @@ span {
     }
 
     .header {
-        width: 50vw;
+        width: 65vw;
     }
 
     img {
@@ -442,8 +442,7 @@ span {
     }
 
     section {
-        padding-left: 15vw;
-        margin-right: 15vw;
+        line-height: 1.6;
     }
 
 }
